@@ -1,0 +1,5 @@
+2024-05-19 18:54:45,519: root: INFO: MyStrategy : Executing the initialize lifecycle method
+2024-05-19 18:54:45,612: root: INFO: Backtesting finished
+2024-05-19 18:54:45,614: root: WARNING: Cannot plot returns because the strategy returns are missing
+2024-05-19 18:54:46,439: root: WARNING: Cannot create a tearsheet because the strategy returns are missing
+2024-05-19 18:54:46,439: backtest_stats: INFO: Backtest took 0:00:00.922204 for a speed of 0.000
